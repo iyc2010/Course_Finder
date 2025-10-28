@@ -1,16 +1,21 @@
-# React + Vite
+AI Tools Used:
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I used Claude AI to generate the main portions of my code and to help debug any issues that arose during development.
+Additionally, I used Perplexity AI to walk me through terminal commands for correctly uploading and managing my project on GitHub.
 
-Currently, two official plugins are available:
+What I Asked the AI to Help With:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Generating the initial structure and logic for my program
+Debugging syntax and runtime errors
+Explaining certain programming concepts when I was unsure
+Providing examples of best practices for code organization
+Clarifying Git and GitHub terminal commands for version control
 
-## React Compiler
+What I Learned from the AI-Generated Code:
+I learned how to create code for a frontend for my project. This helped me understand the process behind building a frontend. I also learned how to prompt AI better to give more basic code that meets the requirements without overengineering.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Modifications I Made to AI Suggestions:
 
-## Expanding the ESLint configuration
+I had to make multiple modifications to the AI Suggestions as I went through the process of doing my code. The intiial idea I had did not work so the AI suggested using mock data as opposed to a Real API. I altered this and pivoted to a new idea.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<img width="1440" height="900" alt="Screenshot 2025-10-28 at 4 25 59 PM" src="https://github.com/user-attachments/assets/0830d120-843c-45a4-9249-45f8ddd7ea75" />
